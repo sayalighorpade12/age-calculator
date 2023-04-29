@@ -1,0 +1,100 @@
+.container{
+    width: 800px;
+    background-color: rgb(18, 88, 67);
+    margin-top: 400px;
+    margin-left: 550px;
+    border-radius: 10px;
+    
+}
+body{
+    background-color: rgb(214, 216, 215);
+}
+
+h1{
+    font-size: xx-large;
+    font-weight: bolde;
+    text-transform: uppercase;
+    text-shadow: 2px 2px lightyellow;
+    color: rgb(230, 152, 7);
+    padding-top: 10px;
+    margin-bottom: 30px;
+    font-family: 'Righteous', cursive;
+
+}
+form{
+    margin-left: 20px;
+    font-size: x-large;
+    
+
+}
+input{
+    height: 30px;
+    width: 190px;
+    font-size: x-large;
+    border-radius: 10px;
+    border: 10px cadetblue;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    background-color: rgb(128, 123, 123);
+
+    
+}
+
+#calculate{
+    background-color: rgb(189, 186, 14);
+    padding: 10px;
+    margin-right: 10px;
+    font-size: larger;
+    border-radius: 10px;
+    border: 2px solid yellowgreen;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    
+}
+#reset{
+    background-color: rgb(189, 186, 14);
+    padding: 10px;
+    margin-right: 10px;
+    font-size: larger;
+    border-radius: 10px;
+    border: 2px solid yellowgreen;
+   
+}
+#calculate:hover{
+    background-color: burlywood;
+}
+
+#reset:hover{
+    background-color: burlywood;
+}
+
+.total{
+   margin-right: 120px;
+   font-size: x-large;
+   padding-bottom: 20px;
+}
+#age{
+    margin-left: 20px;
+    font-size: larger;
+
+}
+
+
+*{
+    color: white;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+  
+    
+}
+.socialMedia{
+    text-align: right;
+    padding: 20px;
+
+}
+#icon{
+    padding-left: 20px;
+    font-size: x-large;
+}
+
+
